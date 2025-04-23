@@ -1,0 +1,6 @@
+{
+    "wif_key": "",
+    "excel_path": "transactions.xlsx",
+    "fee_rate": 3.1,
+    "min_utxo": 1000
+} 
